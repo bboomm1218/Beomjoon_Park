@@ -1,0 +1,1 @@
+If the chaser(user) catches the runner, he gains 50 points every second they are close enough.
