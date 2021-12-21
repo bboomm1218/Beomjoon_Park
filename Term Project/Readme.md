@@ -7,6 +7,7 @@ This project is about **displaying the number of new cases and mortalities(also 
   
 *Let me be clear that the factors I used in this project are not the only features to be considered. A lot more factors would have been influencial up until this point and will play a certain role in the future. However, I reckoned these are the main features people would be most concerned of and hence, decided to exclude the factors besides the three parts I have used.*  
   
+    
 > - 1. 
 ![alt text](vaccination-deaths.png)<br>
 It seemed the number of vaccinations wasn't influencial to the death rate until I figured that the smoothed social distancing policy took place from October.
