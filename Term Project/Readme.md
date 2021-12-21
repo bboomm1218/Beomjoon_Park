@@ -9,16 +9,16 @@ This project is about **displaying the number of new cases and mortalities(also 
   
     
 > - 1. 
-![alt text](vaccination-deaths.png)<br>
-It seemed the number of vaccinations wasn't influencial to the death rate until I figured that the smoothed social distancing policy took place from October.
+> ![alt text](vaccination-deaths.png)<br>
+> It seemed the number of vaccinations wasn't influencial to the death rate until I figured that the smoothed social distancing policy took place from October.
 
 > - 2. 
-![alt text](vaccination-death_2.png)<br>
-After some pruning process, it now shows the vaccine is actually not meaningless in preventing the serious damage due to the infection.
+> ![alt text](vaccination-death_2.png)<br>
+> After some pruning process, it now shows the vaccine is actually not meaningless in preventing the serious damage due to the infection.
 
 > - 3.
-![alt text](vaccination-cases.png)<br>
-The number of cases though, does not seem to decrease. The reason is, as I mentioned in the first place, the number of vaccination may be important factor but not enough to explain the trend of this whole pandemic.
+> ![alt text](vaccination-cases.png)<br>
+> The number of cases though, does not seem to decrease. The reason is, as I mentioned in the first place, the number of vaccination may be important factor but not enough to explain the trend of this whole pandemic.
 
 ## Conclusion
 
