@@ -1,7 +1,7 @@
 # Overall Trend of Covid-19 
 <br>
 
-**The main purpose is to present how the trend of Covid-19 is changing from 2021-01-01 to 2021-12-19.** 
+**The main purpose is to present how the trend of Covid-19 prevails from 2021-01-01 to 2021-12-19.** 
 <br><br>
 This project is about **displaying the number of new cases and mortalities(also death rate)** based on the number of vaccinations throughout this year. Also, I have come to know that some people doubt the effect of the vaccine. Hence, I thought it would be a good idea to see the effectiveness of the vaccine.  
   
