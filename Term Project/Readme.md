@@ -7,11 +7,11 @@
 
 This project is about displaying the number of new cases and mortalities(also death rate) based on the number of vaccinations throughout this year. Also, I have come to know that some people doubt the effect of the vaccine. Hence, I thought it would be a good idea to see the effectiveness of the vaccine.
 
-> 2. 
+> - 2. 
 ![alt text](vaccination-deaths.png)
 It seemed the number of vaccinations wasn't influencial to the death rate until I figured that the smoothed social distancing policy took place from October.
 
-> 3. 
+> - 3. 
 ![alt text](vaccination-death_2.png)
 After some of pruning process, it now shows the vaccine is actually not meaningless in preventing the serious damage due to the infection.
 
